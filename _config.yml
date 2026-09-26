@@ -1,1 +1,5 @@
-
+title: Mostafejur Rahaman
+#logo: /assets/img/headshot_circle.png  <-- Uncomment this and add your photo later
+description: Data Analyst | CS Student at Nantong University <-- Uncomment if you want text under your name
+show_downloads: false
+theme: jekyll-theme-minimal
